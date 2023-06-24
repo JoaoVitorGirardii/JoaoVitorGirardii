@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 JOÃO VITOR GIRARDI
 <hr>
 
+![#][Cargo][Tempo]
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
