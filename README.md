@@ -7,6 +7,13 @@ Prazer, meu nome é João Vitor. Sou programador e atualmente trabalho na [GOVBR
 |--|--|
 |Postgres|:coin::coin::coin::coin::coin:|
 |SQLServer|:coin::coin::coin::coin::coin:|
+|DELPHI|:coin::coin::coin::coin::coin:|
+|C#|:coin::coin::coin:|
+|PHP|:coin::coin::coin::coin::coin:|
+|VB.NET|:coin::coin::coin::coin:|
+|HTML|:coin::coin::coin:|
+|CSS|:coin::coin::coin:|
+
 ### CARREIRA
 | Empresa  | Cargo | Tempo |
 | -- |   --  |   --  |
