@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 JOÃO VITOR GIRARDI
-<hr>
+<hr style="width:1px">
