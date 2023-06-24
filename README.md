@@ -11,8 +11,8 @@ Prazer, meu nome é João Vitor. Sou programador e atualmente trabalho na [GOVBR
 | <img width="30" src="https://github.com/get-icon/geticon/blob/master/icons/c-sharp.svg"> C#|:coin::coin::coin:|
 | <img width="30" src="https://github.com/get-icon/geticon/blob/master/icons/laravel.svg"> Laravel|:coin::coin::coin::coin::coin:|
 | <img width="30" src="https://github.com/get-icon/geticon/blob/master/icons/visual-studio.svg"> VB.NET|:coin::coin::coin::coin:|
-| <img width="30" src=""> HTML|:coin::coin::coin:|
-| <img width="30" src=""> CSS|:coin::coin::coin:|
+| <img width="30" src="https://github.com/get-icon/geticon/blob/master/icons/html-5.svg"> HTML|:coin::coin::coin:|
+| <img width="30" src="https://github.com/get-icon/geticon/blob/master/icons/css-3.svg"> CSS|:coin::coin::coin:|
 
 ### CARREIRA
 | Empresa  | Cargo | Tempo |
