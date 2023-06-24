@@ -5,7 +5,7 @@ Prazer, meu nome é João Vitor. Sou programador e atualmente trabalho na [GOVBR
 ### CONHECIMENTOS
 |Tecnologia|Conhecimento|
 |--|--|
-|<img width="30" color="blue" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"> PostgresSQL |:coin::coin::coin::coin::coin:|
+|<img width="30" color="blue" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"> PostgreSQL |:coin::coin::coin::coin::coin:|
 |SQLServer|:coin::coin::coin::coin::coin:|
 |DELPHI|:coin::coin::coin::coin::coin:|
 |C#|:coin::coin::coin:|
