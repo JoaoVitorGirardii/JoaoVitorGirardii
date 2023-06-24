@@ -5,7 +5,7 @@ Prazer, meu nome é João Vitor. Sou programador e atualmente trabalho na [GOVBR
 ### CONHECIMENTOS
 |Tecnologia|Nível de conhecimento|
 |--|--|
-
+||-[x] Teste -[] testes|
 ### CARREIRA
 | Empresa  | Cargo | Tempo |
 | -- |   --  |   --  |
