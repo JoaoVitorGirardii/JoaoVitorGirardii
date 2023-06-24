@@ -1,6 +1,6 @@
 ## JOÃO VITOR GIRARDI
 
-Prazer, meu nome é João Vitor Girardi. Sou programador e atualmente trabalho na GOVBR - Governança Brasil. Além disso, sou estudante da UNIDAVI, onde estou cursando o bacharelado em Sistemas de Informação e estou no quinto semestre. Minha previsão de formatura é para o ano de 2024. Este é o meu GitHub, onde compartilho meus projetos. Espero que goste deles!
+Prazer, meu nome é João Vitor. Sou programador e atualmente trabalho na [GOVBR - Governança Brasil.](https://www.govbr.com.br). Além disso, Frequento a faculdade UNIDAVI, onde estou cursando o bacharelado em Sistemas de Informação desde fevereiro/2021. Este é o meu GitHub, onde compartilho meus projetos. Espero que goste deles!
 
 ### Carreira
 | Empresa  | Cargo | Tempo |
