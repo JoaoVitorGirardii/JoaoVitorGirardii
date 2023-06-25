@@ -4,6 +4,7 @@
 
 Prazer, meu nome é João Vitor. Sou programador e atualmente trabalho na [GOVBR - Governança Brasil](https://www.govbr.com.br). Além disso, Frequento a faculdade [UNIDAVI](https://unidavi.edu.br), onde estou cursando o bacharelado em Sistemas de Informação desde fevereiro/2021. Este é o meu GitHub, onde compartilho alguns de meus projetos. Espero que goste deles!
 
+
 ### CONHECIMENTOS
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -25,6 +26,7 @@ Prazer, meu nome é João Vitor. Sou programador e atualmente trabalho na [GOVBR
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+
 
 
 ### CARREIRA
