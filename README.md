@@ -1,6 +1,6 @@
 ## JOÃO VITOR GIRARDI
 
-![![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-vitor-girardi-b84a86201/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-vitor-girardi-b84a86201/)
 
 Prazer, meu nome é João Vitor. Sou programador e atualmente trabalho na [GOVBR - Governança Brasil](https://www.govbr.com.br). Além disso, Frequento a faculdade [UNIDAVI](https://unidavi.edu.br), onde estou cursando o bacharelado em Sistemas de Informação desde fevereiro/2021 e atualmente no quinto semestre. Este é o meu GitHub, onde compartilho meus projetos. Espero que goste deles!
 
