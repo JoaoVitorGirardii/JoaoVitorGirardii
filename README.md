@@ -27,5 +27,5 @@ Prazer, meu nome é João Vitor. Sou programador e atualmente trabalho na [GOVBR
 | Empresa  | Cargo | Tempo |
 | -- |   --  |   --  |
 |[:link:](https://www.ipm.com.br) IPM Sistemas| Programador Backend Delphi | Fev/2021 --> Mar/2023 |
-|[:link:](https://www.govbr.com.br) GOVBR - Governança Brasil| Programador Backend vb.net | Mar/2023 -->   ...    |
+|[:link:](https://www.govbr.com.br) GOVBR - Governança Brasil| Programador Backend vb.net | Mar/2023 --> Junho/2024 |
 
