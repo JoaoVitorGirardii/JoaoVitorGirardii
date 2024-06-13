@@ -15,7 +15,6 @@ Prazer, meu nome é João Vitor. Sou programador, frequento a faculdade [UNIDAVI
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 <img width="30" src="https://img.icons8.com/?size=512&id=105446&format=png">
-![REACT](https://camo.githubusercontent.com/ff077b866cdc3fc2b0fa50ca6f8fa395451ffa625bc9c1133643b40e8afa2e2c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7265616374)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
