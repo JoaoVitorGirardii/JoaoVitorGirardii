@@ -22,7 +22,7 @@
 
 ---
 
-## 📊 Estatísticas do GitHub de {{João Vitor Girardi}}
+## 📊 Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JoaoVitorGirardii&show_icons=true&theme=github_dark&locale=pt-br)
 
