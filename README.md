@@ -1,16 +1,33 @@
 ## Hi there 👋
 
-<!--
-**JoaoVitorGirardii/JoaoVitorGirardii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# eu sou {{João Vitor}}! 👋
 
-Here are some ideas to get you started:
+## 🧑‍💻 Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Formado em {{Sistema de Informação}} na {{UNIDAVI}}
+- 💼 {{5}} anos de experiência trabalhando com {{Desenvolvimento de software}}
+- 🌱 Sempre em busca de novos conhecimentos
+
+---
+
+## 🛠️ Habilidades Técnicas
+
+- {{TecnologiasPrincipais}}
+
+---
+
+## 📚 Aprendendo
+
+- Aprofundando minhas habilidades em _{{TecnologiasQueEstaAprendendo}}_
+
+---
+
+## 📊 Estatísticas do GitHub de {{João Vitor Girardi}}
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JoaoVitorGirardii&show_icons=true&theme=github_dark&locale=pt-br)
+
+---
+
+## 📈 Linguagens mais usadas
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorGirardii&layout=compact&theme=github_dark&locale=pt-br)
