@@ -22,7 +22,7 @@
 ## 📚 Aprendendo
 
 - Aprofundando minhas habilidades em Clean Code, Clean Architeture, SOLID, RBAC, Sistemas Multi-Tenant.
-
+- Tenho buscado sempre conhecimento sobre segurança da informação, como manter um sistema seguro em produção, autenticação, validação e proteção de dados, é algo que venho sempre tentando aprender e aplicar em meus projetos.
 
 ## 📊 Estatísticas do GitHub
 
