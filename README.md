@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# eu sou {{João Vitor}}! 👋
+# `eu sou ${João Vitor}`! 👋
 
 ## 🧑‍💻 Sobre Mim
 
