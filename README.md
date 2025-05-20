@@ -20,13 +20,11 @@
 
 - Aprofundando minhas habilidades em _{{TecnologiasQueEstaAprendendo}}_
 
----
 
 ## 📊 Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JoaoVitorGirardii&show_icons=true&theme=github_dark&locale=pt-br)
 
----
 
 ## 📈 Linguagens mais usadas
 
