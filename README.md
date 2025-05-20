@@ -31,3 +31,7 @@
 ## 📈 Linguagens mais usadas
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorGirardii&layout=compact&theme=github_dark&locale=pt-br)
+
+<img src="https://github-readme-stats.vercel.app/api?username=JoaoVitorGirardii&show_icons=true&theme=dark&hide_title=true%22%20alt=%22Laisa%27s%20GitHub%20stats&locale=pt-br" alt="Estatísticas do GitHub de Laisa" /> 
+<br /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorGirardii&layout=compact&theme=dark&locale=pt-br" alt="Linguagens mais usadas" /> 
