@@ -27,3 +27,13 @@
 ## 📊 Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JoaoVitorGirardii&show_icons=true&theme=github_dark&locale=pt-br)
+
+---
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JoaoVitorGirardii&show_icons=true&theme=github_dark&locale=pt-br)
+
+----
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoaoVitorGirardii&theme=github-dark&locale=pt-br)
+
+---
+[![Contribuições por horário](https://raw.githubusercontent.com/JoaoVitorGirardii/JoaoVitorGirardii/main/assets/github-contribution-grid-snake.svg)](https://github.com/JoaoVitorGirardii)
+
