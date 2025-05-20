@@ -8,13 +8,11 @@
 - 💼 {{5}} anos de experiência trabalhando com {{Desenvolvimento de software}}
 - 🌱 Sempre em busca de novos conhecimentos
 
----
 
 ## 🛠️ Habilidades Técnicas
 
 - {{TecnologiasPrincipais}}
 
----
 
 ## 📚 Aprendendo
 
