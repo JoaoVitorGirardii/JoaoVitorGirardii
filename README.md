@@ -30,5 +30,5 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoaoVitorGirardii&theme=github-dark&locale=pt-br)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JoaoVitorGirardii)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JoaoVitorGirardii)](https://github.com/JoaoVitorGirardii/github-readme-stats)
 
